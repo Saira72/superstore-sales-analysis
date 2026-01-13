@@ -1,5 +1,4 @@
 # Superstore Sales Analysis – Power BI
-
 ## Live Dashboard & Dataset
 Power BI Dashboard and raw dataset are available here:  
 ➡️ OneDrive Link: https://1drv.ms/f/c/47ce1c639eee8c5f/IgAaHvfiNIkjRbrP3zFG38bVAVJuxj5j-1bRtqcvdAyaCrs?e=U1y09A
@@ -40,8 +39,4 @@ This dashboard enables business stakeholders to:
 ## Files in This Repository
 - SuperStore_Sales_Dataset.csv – Raw dataset  
 - SuperStore Sales DataSet.xlsx – Original Excel file  
-- Superstore_Dashboard.pbix – Power BI dashboard  
-## How to Use
-1. Download the .pbix file from GitHub or OneDrive  
-2. Open it in Power BI Desktop  
-3. Explore the dashboard using slicers and filters  
+- Superstore_Dashboard.pbix – Power BI dashboard   
